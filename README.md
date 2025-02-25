@@ -47,10 +47,6 @@ Make sure the following libraries are installed before running the project:
 - Flask (for the web app)
 - pandas, numpy, matplotlib
 
-You can install all dependencies using:
-   ```bash
-   pip install -r requirements.txt
-
 ---
 
 ## 📊 Models Implemented
