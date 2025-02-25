@@ -48,8 +48,8 @@ Make sure the following libraries are installed before running the project:
 - pandas, numpy, matplotlib
 
 You can install all dependencies using:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ---
 
